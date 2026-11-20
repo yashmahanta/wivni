@@ -1,0 +1,7 @@
+{
+  "failover": {
+    "label": "Automatic 10-Model Failover",
+    "id": "website-failover",
+    "environmentVariable": "AI_MODEL_PRIORITY"
+  }
+}

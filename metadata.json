@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of BSc Math Exam Assistant",
+  "description": "BSc Mathematics question-image assistant with Gemini 2.5 Flash, Kiro Claude Sonnet 4.5 and Gemini 3.1 Flash-Lite selection, producing formatted LaTeX answers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
